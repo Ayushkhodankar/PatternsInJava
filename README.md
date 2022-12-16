@@ -1,2 +1,2 @@
 # PatternsInJava
-The total number & star patterns are coded in java
+A Java Repository to get codes for the various patterns created or asked.
