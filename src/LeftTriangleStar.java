@@ -12,9 +12,6 @@ public class LeftTriangleStar {
 	        	System.out.print("*");
 	        	}
 	        	System.out.println("");
-	        	}
-
-
-	        
+	        	} 
 	    } 
 }
