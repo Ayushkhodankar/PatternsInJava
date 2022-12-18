@@ -1,3 +1,4 @@
+package patterns;
 
 public class RightTriangleStar {
 	public static void rightTriangle(int n) 
