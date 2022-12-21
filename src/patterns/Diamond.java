@@ -2,7 +2,6 @@ package patterns;
 import java.util.Scanner;
 
 public class Diamond {
-
 	public static void main(String[] args) {
 		int n, i, j, space = 1;
 		System.out.print("Enter the number of rows: ");
