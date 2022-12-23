@@ -14,6 +14,7 @@ public class Diamond {
 		{
 			System.out.print(" ");
 		}
+		
 		space--;
 		for (i = 1; i <= 2 * j - 1; i++)
 		{
