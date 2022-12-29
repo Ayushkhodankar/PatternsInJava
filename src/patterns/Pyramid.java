@@ -13,9 +13,8 @@ public class Pyramid {
             } 
   
             System.out.println();
-        } 
-     
-  
+    } 
+
     public static void main(String args[]) //driver function
     { 
         int n = 5; 
